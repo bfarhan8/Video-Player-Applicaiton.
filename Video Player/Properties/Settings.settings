@@ -1,0 +1,246 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Video_Player.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="btnArabic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">عربى</Value>
+    </Setting>
+    <Setting Name="btnEnglish" Type="System.String" Scope="User">
+      <Value Profile="(Default)">English</Value>
+    </Setting>
+    <Setting Name="btnEMovie1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 1</Value>
+    </Setting>
+    <Setting Name="btnEMovie2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 2</Value>
+    </Setting>
+    <Setting Name="btnEMovie3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 3</Value>
+    </Setting>
+    <Setting Name="btnEMovie4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 4</Value>
+    </Setting>
+    <Setting Name="btnEMovie5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 5</Value>
+    </Setting>
+    <Setting Name="btnEMovie6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 6</Value>
+    </Setting>
+    <Setting Name="btnEMovie7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 7</Value>
+    </Setting>
+    <Setting Name="btnEMovie8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 8</Value>
+    </Setting>
+    <Setting Name="btnEMovie9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 9</Value>
+    </Setting>
+    <Setting Name="btnEMovie10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 10</Value>
+    </Setting>
+    <Setting Name="btnEMovie11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 11</Value>
+    </Setting>
+    <Setting Name="btnEMovie12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video 12</Value>
+    </Setting>
+    <Setting Name="btnAMovie1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 1</Value>
+    </Setting>
+    <Setting Name="btnAMovie2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 2</Value>
+    </Setting>
+    <Setting Name="btnAMovie3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 3</Value>
+    </Setting>
+    <Setting Name="btnAMovie4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 4</Value>
+    </Setting>
+    <Setting Name="btnAMovie5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 5</Value>
+    </Setting>
+    <Setting Name="btnAMovie6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 6</Value>
+    </Setting>
+    <Setting Name="btnAMovie7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 7</Value>
+    </Setting>
+    <Setting Name="btnAMovie8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 8</Value>
+    </Setting>
+    <Setting Name="btnAMovie9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 9</Value>
+    </Setting>
+    <Setting Name="btnAMovie10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 10</Value>
+    </Setting>
+    <Setting Name="btnAMovie11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 11</Value>
+    </Setting>
+    <Setting Name="btnAMovie12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الفيلم 12</Value>
+    </Setting>
+    <Setting Name="btnEFont1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="btnAFont1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">22</Value>
+    </Setting>
+    <Setting Name="btnEColor1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">white</Value>
+    </Setting>
+    <Setting Name="btnAColor1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">white</Value>
+    </Setting>
+    <Setting Name="pageInfo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">English</Value>
+    </Setting>
+    <Setting Name="Movie1E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie2E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie3E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie4E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie5E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie6E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie7E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie8E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie9E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie10E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie11E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie12E" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie5A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie6A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie7A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie8A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie9A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie10A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie11A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="Movie12A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test.mp4</Value>
+    </Setting>
+    <Setting Name="vA1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA4" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA5" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA6" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA7" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA8" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA9" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA10" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA11" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vA12" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE4" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE5" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE6" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE7" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE8" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE9" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE10" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE11" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="vE12" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
